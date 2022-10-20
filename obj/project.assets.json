@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kentc\\.nuget\\packages\\": {}
+    "/Users/bernardo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\githubchallenges\\githubminich6kt\\githubminich6kt.csproj",
+      "projectUniqueName": "/Users/bernardo/Documents/GitRepository/githubminich6kt/githubminich6kt.csproj",
       "projectName": "githubminich6kt",
-      "projectPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\githubchallenges\\githubminich6kt\\githubminich6kt.csproj",
-      "packagesPath": "C:\\Users\\kentc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\githubchallenges\\githubminich6kt\\obj\\",
+      "projectPath": "/Users/bernardo/Documents/GitRepository/githubminich6kt/githubminich6kt.csproj",
+      "packagesPath": "/Users/bernardo/.nuget/packages/",
+      "outputPath": "/Users/bernardo/Documents/GitRepository/githubminich6kt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kentc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/bernardo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
